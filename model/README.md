@@ -1,0 +1,1 @@
+The directory is used for store SAM ViT weight.
